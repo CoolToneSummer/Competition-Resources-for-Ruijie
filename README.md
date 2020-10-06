@@ -2,6 +2,12 @@
 
 **这里存放的是锐捷网络技能大赛使用到的公共资料**
 
+**下载前注意事项：**
+
+**点击下载的时候可能会出现 raw.githubusercontent.com’s server IP address could not be found 无法下载的问题，这是DNS的解析问题，本人写了一篇解决这个问题的方法供大家参考！！！**
+
+**解决方法链接地址： https://blog.csdn.net/qq_40695642/article/details/108909666**
+
 **由于Github上无法储存很大的东西，下面给出永久百度网盘链接**
 
 ### 云平台镜像/虚拟机镜像
