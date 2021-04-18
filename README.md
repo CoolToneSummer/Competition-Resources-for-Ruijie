@@ -20,10 +20,6 @@
 链接：https://pan.baidu.com/s/1yaPoXpfReXx2i8t4ywJ_sQ 
 提取码：R9S1
 
-### 大赛设备行业工程实施范例一本通
-
-链接：https://pan.baidu.com/s/1JCsSXwf10uYAkjO9nMxWjg 
-提取码：19li
 
 ### ODL软件定义网络集成工具
 
